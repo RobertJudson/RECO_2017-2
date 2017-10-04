@@ -1,0 +1,6 @@
+mkdir <nome> => cria pastas
+patch <nome.extenção> => cria arquivos
+ls => lista os arquivos e pastas no diretório
+gedit <arquivo> => abre o arquivo no editor de texto
+lstart => comando do netkit para iniciar o emulador no diretório
+

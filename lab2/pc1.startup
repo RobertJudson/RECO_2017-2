@@ -1,0 +1,3 @@
+# ifconfig <interface> <IP>/<mascara>
+
+ifconfig eth0 195.11.14.5/24 # Rede A
