@@ -2,3 +2,5 @@
 
 ifconfig eth0 195.11.14.1/24 # Rede A
 ifconfig eth1 100.0.0.9/30   # Rede B
+
+route add default gw 100.0.0.10 # Gateway padrão
